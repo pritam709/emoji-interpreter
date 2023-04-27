@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#userInput {
+  height: 1.5rem;
+  width: 300px;
+  padding: 10px;
+}
+
+span {
+  font-size: 2rem;
+  padding: 12px;
+}
